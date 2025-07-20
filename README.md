@@ -3,3 +3,8 @@ i wrote the code using which we can send message in whatsapp using pywhatkit mod
 pip install pywhatkit  . Install this .
 
 
+Ensure a stable internet connection.
+You must stay logged in to WhatsApp Web.
+Keep the tab active until the message is sent.
+
+
